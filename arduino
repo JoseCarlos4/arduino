@@ -36,7 +36,13 @@ Para acabar solo hace falta poner el codigo para que eso funcione y ya esta.
 
 
 El quarto proyecto es el interface de nave espacial que este si que es un semaforo, explico como se conecta todo y lo necesario. Lo que se necesita es:
-tres leds (dos rojos y uno verde),quatro pulsadores, y quatro resistencias. Bueno para comenzar hace falta como en todos los proyectos que es 
+tres leds (dos rojos y uno verde),quatro pulsadores, y quatro resistencias. Bueno para comenzar hace falta como en todos los proyectos que es un arduino 
+y una protoboard, despues se conectan las leds, al lado el pulsador y luego las resistencias y los cables a lo ultimo. Eso lo que hace es que cuando le das
+al pulsador los leds hacen como un semaforo.
+
+
+El quinto proyecto es igual que el anterior pero con dos interruptores pero con diferente codigo. Lo necesario para hacer el circuito es lo mismo que antes
+pero con un pulsador mas y una resistencia mas, hace falta un arduino y una protoboard y los cables claramente
 
 
 
