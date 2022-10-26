@@ -13,11 +13,62 @@ He echo un molino de viento con un motor y una bateria.
 Acabo de acabar otro circuito con bateria y motor y he utilizado tinkercad para hacerlo mas seguro.
 Tengo echo y doocumentado 5 proyectos de arduino.
 Ahora voy a explicar como se monta todos los proyectos que tengo en tinkercad:
+
+
 El primer proyecto que hice fue el Zoótropo que es basicamente yo conecto un par de cables donde me indica, los pulsadores que en este caso son 2, luego 
 conecto un potenciometro, después un puente h y por ultimo conecto un bateria y un motor, luego para que funcione el motor hay que hacer una cosa para
 que eso funcione y es tener la aplicacion de arduino, en la aplicacion hay que poner un codigo para programar el aurduino pero en fisico o en tinkercad,
 y luego le doy vueltas al potenciometro y dara vueltas el motor, y esa es la explicacion del primer proyecto.
-Segundo proyecto 
+
+
+El segundo proyecto es un altavoz, bueno voy a explicar como montarlo. Para comenzar si hay que hacerlo en tinkercad o en fisico
+va a ser lo mismo. Priemero hay que conectar el cable de postivo y luego el de negativo en su lugar correspondiente, despues hacen falta 4 resistencias 
+que dos son iguales pero las otras dos son diferentes, tambien cuatro puladores, las resistencias son: dos de 10 KILOOHMIOS, uno de 1 MEGOHMIOS y uno de
+220 OHMIOS. Luego hay que conectar los pulsadores ya que despues hay que poner tres cables al lado suyo, y por ultimo hay que conectar el piezo y luego el
+codigo y funcionara.
+
+
+El tercer Proyecto es el medidor de enamoramiento que basicamente es como un semaforo, bueno voy con la explicacion. Para comenzar hace falta un arduino 
+y una protoboard, cables, un sensor de sensor de temperatura, tres leds de color rojo y tres resistencias de 220 OHMIOS. Primero hay que conectar el cable
+de positivo y el de negativo en se lugar, luego conectar el sensor de temperatura para que no se sobrecaliente las leds y se fundan, tambien las resistencias
+para regular la electricidad por donde pasa y luego conectar un par de cables para unirlo todo a una sola cosa que son los leds y sensor de temperatura.
+Para acabar solo hace falta poner el codigo para que eso funcione y ya esta.
+
+
+El quarto proyecto es el interface de nave espacial que este si que es un semaforo, explico como se conecta todo y lo necesario. Lo que se necesita es:
+tres leds (dos rojos y uno verde),quatro pulsadores, y quatro resistencias. Bueno para comenzar hace falta como en todos los proyectos que es 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
