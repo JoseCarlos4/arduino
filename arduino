@@ -42,7 +42,36 @@ al pulsador los leds hacen como un semaforo.
 
 
 El quinto proyecto es igual que el anterior pero con dos interruptores pero con diferente codigo. Lo necesario para hacer el circuito es lo mismo que antes
-pero con un pulsador mas y una resistencia mas, hace falta un arduino y una protoboard y los cables claramente
+pero con un pulsador mas y una resistencia mas, hace falta un arduino y una protoboard y los cables claramente. Bueno lo que hay que hacer es casi lo mismo
+que el anterior pero solo hay que poner un pulsador al lado del otro pulsador y un cabble al lado del pulsador y una resistencia mas para regular la corriente
+electrica de el pulsador y de las leds para que no se fundan. Y lo ultimo es claramente que es poner el codigo de programacion en tinkercad o en arduino
+si en ese caso es en fisico y lo que tendria que hacer es cuando le das va haciendo un semaforo, si se canvia el codigo lo que se puede hacer es que una luz
+parpadee todo el rato o que lo haga del reves.
+
+
+El sexto proyecto es la rueda de colores motorizada es basicamene que el motro se mueve como una rueda, voy ha la explicacion y lo que se necesita:
+se necesita un motor, una bateria, una resistencia, un mosfet, un diodo y los cables. Para comenzar lo que se necesita como en todos los proyectos es un 
+arduino y una protoboard tanto en tinkercad o tanto en fisico, se conectan el cable de positivo y negativo para que funcione el arduino y la protobord y la
+parte de positivo y la parte de negativo, luego al resistencia para que de corrente electrica, luego el mosfet para regular la corriente electrica, 
+conectar la bateria en su parte y luego el motor donde toca y luego los cable para que de señal y para que funciones toda la corriente electrica. Para acabar
+como todos los proyectos hace falta un codigo bien programado y se pone y el motor girara porque gracias al mosfet y a la resistencia todo esta controlado
+y no se sobrecalienta.
+
+
+El septimo proyecto es el indicador de estado de animo que basicamente es un motor con unas helices que eso cuando lo mueves con el potenciomentro se mueve
+las helices, voy a explicar lo necesario para hacer el proyecto: hace falta un potenciometro, un servomotor, dos condensadores y los cables. 
+Para comenzar lo que se necesita como en todos los proyectos es un arduino y una protoboard tanto en tinkercad o tanto en fisico, se conectan el cable 
+de positivo y negativo para que funcione el arduino y la protobord y la parte de positivo y la parte de negativo, se conectan los dos condensadores que 
+sirven para almacenar la corriente electrica, el potenciometro que es para mover el servomotor, y los cables para unir todo en uno. Para acabar como todos
+los proyectos hace falta un codigo bien programado para que todo vaya correcto y no se rompa el servomotor.
+
+
+Y por ultimo el octavo proyecto que es el theremin controlado por luz que es una luz en si, voy a explicar lo necesario para el proyecto: un piezo, una 
+resistencia, una foto resistencia y los cables. Para comenzar lo que se necesita como en todos los proyectos es un arduino y una protoboard tanto en tinkercad o tanto en fisico, se conectan el cable 
+de positivo y negativo para que funcione el arduino y la protobord y la parte de positivo y la parte de negativo, se conecta la foto resistencia, la 
+resistencia, el piezo y los cables. Para acabar como todoslos proyectos hace falta un codigo bien programado para que todo vaya correcto y no se rompa el 
+piezo.
+
 
 
 
